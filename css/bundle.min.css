@@ -17303,7 +17303,7 @@ nav.navigation-main .logo {
     -moz-transition: height .5s;
     -o-transition: height .5s;
     -webkit-transition: height .5s;
-    transition: height .5s
+    transition: height .5s;
 }
 
 nav.navigation-main .logo .logo-desktop {
